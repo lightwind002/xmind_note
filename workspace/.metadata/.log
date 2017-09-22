@@ -906,3 +906,131 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclips
 
 !ENTRY org.xmind.cathy 1 0 2017-09-18 10:03:56.290
 !MESSAGE CathyWorkbenchAdvisor: About to save workbook on workbench close: C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind
+!SESSION 2017-09-18 19:13:52.862 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\u-boot.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\u-boot.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 19:13:55.086
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 19:13:55.086
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 19:13:59.091
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\u-boot.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 19:14:02.757
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\u-boot.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-09-18 19:14:02.774
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\u-boot.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-09-18 19:14:04.058
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-09-18 22:15:28.089 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 22:15:29.651
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 22:15:29.651
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 22:15:30.964
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.core.command 1 0 2017-09-18 22:15:32.616
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 22:15:39.476
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-09-18 22:15:39.476
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-09-18 22:15:40.664
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-09-18 22:15:55.717 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 22:15:57.233
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 22:15:57.233
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 22:15:58.577
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-18 22:15:59.958
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-09-18 22:15:59.974
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-09-18 22:16:01.193
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-09-20 22:19:57.681 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-20 22:20:00.900
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-20 22:20:00.900
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-20 22:20:07.010
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-20 22:20:13.488
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-09-20 22:20:13.535
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-09-20 22:20:15.551
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-09-20 23:00:37.118 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-20 23:00:39.475
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-20 23:00:39.475
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-09-20 23:00:41.319
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-09-20 23:00:43.642
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-09-20 23:00:43.657
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\Stereo Camera Calibration (立体相机标定).xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-09-20 23:00:44.635
+!MESSAGE WARNING: Library owner is null in info.json
