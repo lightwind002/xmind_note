@@ -1034,3 +1034,128 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclips
 
 !ENTRY org.xmind.ui.seawind 1 0 2017-09-20 23:00:44.635
 !MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-10-09 16:54:54.410 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\STD library.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\STD library.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-10-09 16:54:56.464
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-10-09 16:54:56.467
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-10-09 16:55:00.665
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\STD library.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-10-09 16:55:04.806
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\STD library.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-10-09 16:55:04.841
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\STD library.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-10-09 16:55:06.476
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-10-09 16:55:32.832 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-10-09 16:55:34.751
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-10-09 16:55:34.752
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-10-09 16:55:36.290
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-10-09 16:55:37.944
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-10-09 16:55:37.955
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-10-09 16:55:39.672
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-10-12 13:19:44.655 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\SSD.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\SSD.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-10-12 13:19:46.643
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-10-12 13:19:46.643
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-10-12 13:19:51.324
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\SSD.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-10-12 13:19:55.926
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\SSD.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-10-12 13:19:55.959
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\SSD.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-10-12 13:19:58.059
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-10-12 13:20:08.043 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\STD library.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\STD library.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-10-12 13:20:09.843
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-10-12 13:20:09.843
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-10-12 13:20:11.360
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\STD library.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-10-12 13:20:12.860
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\STD library.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-10-12 13:20:12.876
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\STD library.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-10-12 13:20:14.593
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-11-03 13:10:33.925 -----------------------------------------------
+eclipse.buildId=R3.7.0.201611010032
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-11-03 13:10:36.082
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-11-03 13:10:36.085
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2017-11-03 13:10:40.281
+!MESSAGE Path queued to be opened: C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.cathy 1 0 2017-11-03 13:10:44.424
+!MESSAGE Ready to open files: [C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2017-11-03 13:10:44.463
+!MESSAGE Malformed URI: C:\Users\tom\Desktop\xmind_note\c++ 11新特性.xmind
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-11-03 13:10:46.263
+!MESSAGE WARNING: Library owner is null in info.json
